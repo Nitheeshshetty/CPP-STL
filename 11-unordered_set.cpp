@@ -44,6 +44,5 @@ int main()
     for(auto e:us){
         cout<<e<<" ";
     }
-
     return 0;
 }
